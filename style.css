@@ -19,22 +19,21 @@
     grid-column: 1/4;
     grid-row: 3/4;
     background-color: blueviolet;
-
 }
 
-.box1 {
+.square1 {
     grid-column: 1/2;
     grid-row: 4/5;
     background-color: rgb(127, 240, 116);
 }
 
-.box2 {
+.square2 {
     grid-column: 2/3;
     grid-row: 4/5;
     background-color: rgb(250, 50, 50);
 }
 
-.box3 {
+.square3 {
     grid-column: 3/4;
     grid-row: 4/5;
     background-color: rgb(24, 79, 150);
